@@ -33,6 +33,11 @@ layout: default
 <dt>Системный администратор.</dt>
 
 ## Портфолио:
+- Счет Договор для 1С Фреш ПФ. [Ссылка на GitHub](https://github.com/AlexTlustov/chet_dogovor_1c_fresh)
+- Корректировка НДФЛ ВО. [Ссылка на GitHub](https://github.com/AlexTlustov/korrektirovka_ndfl)
+- Подмена номера СФ Книги продаж. [Ссылка на GitHub](https://github.com/AlexTlustov/podmena_nomera_SF)
+- Выгрузка Накладной в ФармСМ-1. [Ссылка на GitHub](https://github.com/AlexTlustov/vigruzka_documentov_farm_apteka)
+- Закрытие Минусовых Остатко в БП. [Ссылка на GitHub](https://github.com/AlexTlustov/zakritie_minusovih_ostatkov_bp)
 - Парсер сайта мебели. [Ссылка на GitHub](https://github.com/AlexTlustov/parser_stelmeb.com)
 - Парсер HH.RU. [Ссылка на GitHub](https://github.com/AlexTlustov/web_parcing)
 - Курсовая работа API VK+Yandex. [Ссылка на GitHub](https://github.com/AlexTlustov/kursabaya_rabota)
