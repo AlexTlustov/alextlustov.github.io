@@ -17,7 +17,7 @@ description: Пройденные курсы и изученный матери�
 </div>
 <div style="display: flex; justify-content: center;">
   <a href="https://i.ibb.co/s5Gb6vy/image.png">
-    <img src="hhttps://i.ibb.co/s5Gb6vy/image.png" alt="Диплом о проф переподготовке Python" border="0"/>
+    <img src="https://i.ibb.co/s5Gb6vy/image.png" alt="Диплом о проф переподготовке Python" border="0"/>
   </a>
 </div>
 <div style="text-align: center;">
