@@ -54,7 +54,7 @@ layout: default
 Все фото сертификатов находятся здесь. [Ссылка на страницу.](./another-page.html)
 
 ## Личные данные:
-<p style="font-weight: bold;">ФИО:</p><span>Тлустов Александр Игоревич</span> 
+<p style="font-weight: bold;">ФИО:</p> <span>Тлустов Александр Игоревич</span> 
 <p style="font-weight: bold;">Дата рождения:</p>15.07.1989     
 <p style="font-weight: bold;">Место рождения:</p>г. Комсомольск, Полтавская обл. 
 <p style="font-weight: bold;">Место регистрации:</p>г. Симферополь, Республика Крым.  
