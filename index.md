@@ -42,11 +42,11 @@ layout: default
 <dd>Системный администратор</dd>
 
 ## Портфолио:
-Парсер сайта мебели. [Ссылка на GitHub](https://github.com/AlexTlustov/parser_stelmeb.com)
-Парсер HH.RU. [Ссылка на GitHub](https://github.com/AlexTlustov/web_parcing)
-Курсовая работа API VK+Yandex. [Ссылка на GitHub](https://github.com/AlexTlustov/kursabaya_rabota)
-Телеграмм бот "Домашний помощник". [Ссылка на GitHub](https://github.com/AlexTlustov/hh_bot)
-Дипломная работа API Service. [Ссылка на GitHub](https://github.com/AlexTlustov/neto_final_diplom)
+- Парсер сайта мебели. [Ссылка на GitHub](https://github.com/AlexTlustov/parser_stelmeb.com)
+- Парсер HH.RU. [Ссылка на GitHub](https://github.com/AlexTlustov/web_parcing)
+- Курсовая работа API VK+Yandex. [Ссылка на GitHub](https://github.com/AlexTlustov/kursabaya_rabota)
+- Телеграмм бот "Домашний помощник". [Ссылка на GitHub](https://github.com/AlexTlustov/hh_bot)
+- Дипломная работа API Service. [Ссылка на GitHub](https://github.com/AlexTlustov/neto_final_diplom)
 
 
 ## Сертификаты и удостоверения:
@@ -54,7 +54,7 @@ layout: default
 Все фото сертификатов находятся здесь. [Ссылка на страницу.](./another-page.html)
 
 ## Личные данные:
-<p style="font-weight: bold;">ФИО:</p>Тлустов Александр Игоревич  
+<p style="font-weight: bold;">ФИО:</p><span>Тлустов Александр Игоревич</span> 
 <p style="font-weight: bold;">Дата рождения:</p>15.07.1989     
 <p style="font-weight: bold;">Место рождения:</p>г. Комсомольск, Полтавская обл. 
 <p style="font-weight: bold;">Место регистрации:</p>г. Симферополь, Республика Крым.  
