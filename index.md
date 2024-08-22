@@ -43,7 +43,11 @@ layout: default
 <dd>Системный администратор</dd>
 
 ## Портфолио:
-Специализации [Ссылка на сертификаты](./another-page.html)
+Парсер сайта мебели [Ссылка на GitHub](https://github.com/AlexTlustov/parser_stelmeb.com)
+Парсер HH.RU [Ссылка на GitHub](https://github.com/AlexTlustov/web_parcing)
+Курсовая работа API VK+Yandex [Ссылка на GitHub](https://github.com/AlexTlustov/kursabaya_rabota)
+Телеграмм бот "Домашний помощник" [Ссылка на GitHub](https://github.com/AlexTlustov/hh_bot)
+Дипломная работа API Service [Ссылка на GitHub](https://github.com/AlexTlustov/neto_final_diplom)
 
 
 #### Header 4
