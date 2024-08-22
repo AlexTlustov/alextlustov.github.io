@@ -5,26 +5,39 @@ layout: default
 <a href="https://ibb.co/6gnKTpT"><img src="https://i.ibb.co/BqzhQ7Q/2024-08-22-114658.png" alt="ТлустовАлександр" border="0" width="400" height="500" align="left" vspace="5" hspace="10"/></a>
 <p style="margin-left: 420px;">Меня зовут Александр, мне 35 лет. Работаю с программами компании 1С, иногда в них программирую и в том числе на Python.</p>
 <p style="margin-left: 420px;">Закончил экономический факультет, интересовался программированием и сферой IT, в итоге совместив это в работе в 1C.</p>
-<p style="margin-left: 420px;">С 2021 работаю в франчайзи 1С, работаю с аналитическими задачами, создаю внешние обработки и расширения, пишу в личных целях программы на Python.</p>
+<p style="margin-left: 420px;">С 2021 работаю в франчайзи 1С, работаю с аналитическими задачами, немного создаю внешние обработки и расширения, пишу в личных целях программы на Python.</p>
 <p style="margin-left: 420px;">Специализации:</p>
-<p style="margin-left: 420px;"> - Аналитик</p> 
-<p style="margin-left: 420px;"> - Бизнес-аналитик</p>    
+<p style="margin-left: 420px;"> - Аналитик</p>    
 <p style="margin-left: 420px;"> - Методист</p>  
 <p style="margin-left: 420px;"> - Программист, разработчик</p>
 
 [Ссылка на сертификаты](./another-page.html)
 
-# Header 1
+## Образование:
+<dt>1996 - 2006:</dt>  
+<dd>Средняя общеоброзовательная школа №12. г. Симферополь.</dd> 
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+<dt>2006 - 2011:</dt>    
+<dd>Запорожский Национальный Университет. Факультет "Финансы и кредит, экономика и предприятие"</dd>
 
-## Header 2
+## Опыт работы:
+<dt>2021 - 2024:</dt>  
+<dd>ООО «СТМ»</dd>
+<dd>Консультант-методист 1С.</dd>
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+<dt>2020 - 2021:</dt>  
+<dd>ООО «СПРАВА»</dd>
+<dd>Разработка и продвижение сайтов.</dd>
 
-### Header 3
+<dt>2015 - 2020:</dt>  
+<dd>Ваш консультант, ООО</dd>
+<dd>Сервисный инженер программы КонсультантПлюс.</dd>
+
+<dt>2014 - 2015:</dt>  
+<dd>ООО «АУДИОТЕЛЕ»</dd>
+<dd>Системный администратор</dd>
+
+## Портфолио:
 
 ```js
 // Javascript code with syntax highlighting.
