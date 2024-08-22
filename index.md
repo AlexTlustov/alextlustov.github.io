@@ -11,8 +11,6 @@ layout: default
 <p style="margin-left: 420px;"> - Методист</p>  
 <p style="margin-left: 420px;"> - Программист, разработчик</p>
 
-[Ссылка на сертификаты](./another-page.html)
-
 ## Образование:
 <dt>1996 - 2006:</dt>  
 <dd>Средняя общеоброзовательная школа №12.</dd> 
@@ -44,18 +42,16 @@ layout: default
 <dd>Системный администратор</dd>
 
 ## Портфолио:
-Парсер сайта мебели [Ссылка на GitHub](https://github.com/AlexTlustov/parser_stelmeb.com)
-Парсер HH.RU [Ссылка на GitHub](https://github.com/AlexTlustov/web_parcing)
-Курсовая работа API VK+Yandex [Ссылка на GitHub](https://github.com/AlexTlustov/kursabaya_rabota)
-Телеграмм бот "Домашний помощник" [Ссылка на GitHub](https://github.com/AlexTlustov/hh_bot)
-Дипломная работа API Service [Ссылка на GitHub](https://github.com/AlexTlustov/neto_final_diplom)
+Парсер сайта мебели. [Ссылка на GitHub](https://github.com/AlexTlustov/parser_stelmeb.com)
+Парсер HH.RU. [Ссылка на GitHub](https://github.com/AlexTlustov/web_parcing)
+Курсовая работа API VK+Yandex. [Ссылка на GitHub](https://github.com/AlexTlustov/kursabaya_rabota)
+Телеграмм бот "Домашний помощник". [Ссылка на GitHub](https://github.com/AlexTlustov/hh_bot)
+Дипломная работа API Service. [Ссылка на GitHub](https://github.com/AlexTlustov/neto_final_diplom)
 
 
-#### Header 4
+## Сертификаты и удостоверения:
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+Все фото сертификатов находятся здесь. [Ссылка на страницу.](./another-page.html)
 
 ##### Header 5
 
