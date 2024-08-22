@@ -3,6 +3,42 @@ layout: default
 title: Сертификаты и удостоверения
 description: Пройденные курсы и изученный материал
 ---
+### 2024:
+<div style="text-align: center;">
+  <p style="font-weight: normal;">Основы механизмов платформы "1С:Предприятие 8.3"</p>
+</div>
+<div style="display: flex; justify-content: center;">
+  <a href="https://i.ibb.co/HrZjh7z/image.png">
+    <img src="https://i.ibb.co/HrZjh7z/image.png" alt="Основы механизмов платформы 1С:Предприятие 8.3" border="0"/>
+  </a>
+</div>
+<div style="text-align: center;">
+  <p style="font-weight: normal;">Диплом о проф переподготовке Python</p>
+</div>
+<div style="display: flex; justify-content: center;">
+  <a href="https://i.ibb.co/s5Gb6vy/image.png">
+    <img src="hhttps://i.ibb.co/s5Gb6vy/image.png" alt="Диплом о проф переподготовке Python" border="0"/>
+  </a>
+</div>
+<div style="text-align: center;">
+  <p style="font-weight: normal;">Приложение к диплому Python</p>
+</div>
+<div style="display: flex; justify-content: center;">
+  <a href="https://i.ibb.co/X4Dqp6j/image.png">
+    <img src="https://i.ibb.co/X4Dqp6j/image.png" alt="Приложение к диплому Python" border="0"/>
+  </a>
+</div>
+
+### 2023:
+<div style="text-align: center;">
+  <p style="font-weight: normal;">1С:Профессионал. Зарплата и управление персоналом 8</p>
+</div>
+<div style="display: flex; justify-content: center;">
+  <a href="https://i.ibb.co/9tM5vPb/Screenshot-23.png">
+    <img src="https://i.ibb.co/9tM5vPb/Screenshot-23.png" alt="1С:Профессионал. Зарплата и управление персоналом 8" border="0"/>
+  </a>
+</div>
+
 ### 2022:
 <div style="text-align: center;">
   <p style="font-weight: normal;">1С:ИТС Специалист по сопровождению</p>
@@ -70,8 +106,5 @@ description: Пройденные курсы и изученный матери�
     <img src="https://i.ibb.co/61KrJ3f/Screenshot-8.png" alt="Mobile SMARTS: Склад 15" border="0"/>
   </a>
 </div>
-
-
-
 
 [Назад](./)

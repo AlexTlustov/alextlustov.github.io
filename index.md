@@ -2,8 +2,8 @@
 layout: default
 ---
 
-<a href="https://ibb.co/6gnKTpT"><img src="https://i.ibb.co/BqzhQ7Q/2024-08-22-114658.png" alt="ТлустовАлександр" border="0" width="400" height="500" align="left" vspace="5" hspace="10"/></a>
-<p style="margin-left: 420px;">Приветствую!</p>
+<a href="https://ibb.co/6gnKTpT"><img src="https://i.ibb.co/BqzhQ7Q/2024-08-22-114658.png" alt="ТлустовАлександр" border="0" width="440" height="550" align="left" vspace="5" hspace="10"/></a>
+<p style="margin-left: 420px; font-weight: bold;">Приветствую!</p>
 <p style="margin-left: 420px;">Меня зовут Александр, мне 35 лет. Работаю с конфигурациями 1С, иногда программирую на Python.</p>
 <p style="margin-left: 420px;">Закончил экономический факультет, интересовался программированием, в итоге совместил это в работе с 1C.</p>
 <p style="margin-left: 420px;">С 2021 работаю в франчайзи 1С, немного создаю внешние обработки и расширения, пишу простые программы на Python.</p>
@@ -11,6 +11,9 @@ layout: default
 <p style="margin-left: 420px;"> - Аналитик</p>    
 <p style="margin-left: 420px;"> - Методист</p>  
 <p style="margin-left: 420px;"> - Программист, разработчик</p>
+
+## Учебный центр 1С:
+- Паспорт квалификации 1С. [Ссылка на UC 1C](https://uc1.1c.ru/account/summary/?token=21e412357984a21b2429d9bcced31c1f)
 
 ## Опыт работы:
 <dt>2021 - 2024:</dt>  
