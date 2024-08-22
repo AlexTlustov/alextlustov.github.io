@@ -2,6 +2,7 @@
 layout: default
 ---
 
+# О себе:
 <a href="https://ibb.co/6gnKTpT"><img src="https://i.ibb.co/BqzhQ7Q/2024-08-22-114658.png" alt="ТлустовАлександр" border="0" width="400" height="500" align="left" vspace="5" hspace="10"/></a>
 <p style="margin-left: 420px;">Меня зовут Александр, мне 35 лет. Работаю с программами компании 1С, иногда в них программирую и в том числе на Python.</p>
 <p style="margin-left: 420px;">Закончил экономический факультет, интересовался программированием и сферой IT, в итоге совместив это в работе в 1C.</p>
